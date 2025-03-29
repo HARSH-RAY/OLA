@@ -18,7 +18,7 @@ public class ch_2 {
         } else {
             System.out.println("lesser");
         }
-
+        //to exit
         sc.close();
         }
     
