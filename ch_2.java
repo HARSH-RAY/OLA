@@ -10,7 +10,7 @@ public class ch_2 {
         
         //random to genrated to compared
         Random rand = new Random();
-        int Guess = rand.nextInt(100) + 1;
+        int Guess = rand.nextInt(100)+ 1;
 
         //no is greater or not
         if (num > Guess){
